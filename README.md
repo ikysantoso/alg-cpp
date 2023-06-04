@@ -1,1 +1,1 @@
-base repository for research and learn any algorithm using cpp
+iky's base repository for research and learn any algorithm using cpp
