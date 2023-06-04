@@ -29,3 +29,13 @@ int main()
 
     return 0;
 }
+
+/*
+
+time complexity
+1. worst case = 0(n)
+2. best case (when key is found in the first iteration) = 0(1)
+
+the average time complexity = 0(n), because on average, the key will be found after
+
+*/
